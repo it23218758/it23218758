@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://itouch.co.za/img/android_banner.jpg" alt="Android Development Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Sanaya Suraweera</h1>
 <h3 align="center">A passionate Testing and Frontend Developer from Sri Lanaka</h3>
 <img align="right" alt="coding"width="400" src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGE5NW53bXp5dm1saWc3azh3ZDA5N3FkbGk1Y3h0cnY0a2pleDhtMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/200.webp">
